@@ -126,5 +126,5 @@ module_platform_driver(agn_key_driver); // 自动注册/注销平台驱动
 
 //模块元信息 
 MODULE_LICENSE("GPL");                  // 必须声明GPL协议
-MODULE_AUTHOR("");             // 作者信息
+MODULE_AUTHOR("jian diao");             // 作者信息
 MODULE_DESCRIPTION("AGN GPIO Key Driver"); // 驱动描述
